@@ -61,11 +61,11 @@ I'm a **Software Developer** with **2.5 years of experience** building robust, s
 
 <div align="center">
 
-![Gyaneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyaneshwarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Gyaneshwar's GitHub Stats]
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyaneshwarr&theme=tokyonight&hide_border=true)
+![GitHub Streak]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyaneshwarr&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages]
 
 </div>
 
@@ -75,7 +75,7 @@ I'm a **Software Developer** with **2.5 years of experience** building robust, s
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gyaneshwarr&theme=darkhub&no-frame=true&row=1&column=7)
+![Trophies]
 
 </div>
 
