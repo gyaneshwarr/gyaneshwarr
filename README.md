@@ -61,25 +61,23 @@ I'm a **Software Developer** with **2.5 years of experience** building robust, s
 
 <div align="center">
 
-![Gyaneshwar's GitHub Stats]
+<img src="https://github-readme-stats.vercel.app/api?username=gyaneshwarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![GitHub Streak]
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyaneshwarr&theme=tokyonight&hide_border=true" />
 
-![Top Languages]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyaneshwarr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
----
+-----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies]
+<img src="https://github-profile-trophy.vercel.app/?username=gyaneshwarr&theme=darkhub&no-frame=true&margin-w=4" />
 
 </div>
-
----
 
 ## 🤝 Let's Connect
 
