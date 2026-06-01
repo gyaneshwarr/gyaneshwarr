@@ -13,7 +13,7 @@
 I'm a **Software Developer** with **2.5 years of experience** building robust, scalable backend systems using Java and Spring Boot, deployed on AWS and Azure.
 
 - 🔭 Currently working on cloud-native microservices
-- 🌱 Exploring advanced AWS architecture and distributed systems
+- 🌱 Exploring Agentic AI and advanced AWS architecture
 - ⚡ Passionate about clean code, system design, and backend engineering
 - 💡 Always learning — always building
 
@@ -39,6 +39,21 @@ I'm a **Software Developer** with **2.5 years of experience** building robust, s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Verify |
+|:---:|:---|:---|:---:|
+| <img src="https://images.credly.com/size/160x160/images/772a2b31-1440-46a2-9c3c-96b8c05c5819/blob" width="60"/> | **Reinvention with Agentic AI** | Coursera / IBM | [🔗 View](https://www.credly.com/earner/earned/badge/3ce77f4f-7a27-4ba4-9b77-2deb6be45beb) |
+| <img src="https://images.credly.com/size/160x160/images/96153eb1-e9b1-496f-9278-e0dd26a76af3/blob" width="60"/> | **Build Search & Recommendations Apps with AI** | Elastic | [🔗 View](https://www.credly.com/earner/earned/badge/c2f54571-5f6d-4b77-af95-46a5abcd64ad) |
+| <img src="[https://images.credly.com/size/80x80/images/badge_image_url](https://images.credly.com/size/160x160/images/f28a92f1-2837-4770-add0-70008be15e89/image.png)" width="60"/> | **LFC131: Green Software for Practitioners** | Linux Foundation | [🔗 View](https://www.credly.com/earner/earned/badge/f70a665f-03f8-4ea5-8013-53f9bac86301) |
+| <img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="60"/> | **Microsoft Certified: Azure Fundamentals** | Microsoft | [🔗 View](https://www.credly.com/earner/earned/badge/68658384-3fe9-4804-b42f-dab160020c73) |
+
+</div>
 
 ---
 
@@ -72,6 +87,7 @@ I'm a **Software Developer** with **2.5 years of experience** building robust, s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyaneshwar-maddela-0b9859226/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyaneshwarr)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gyaneshwar-maddela)
 
 </div>
 
